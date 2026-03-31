@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的旅行日记</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Microsoft Yahei", sans-serif;
+        }
+        body {
+            background-color: #f0f8ff;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            padding: 30px 0;
+            color: #2c3e50;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            overflow: hidden;
+        }
+        .card img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+        }
+        .card-content {
+            padding: 20px;
+        }
+        .card-content h2 {
+            color: #2980b9;
+            margin-bottom: 10px;
+        }
+        .card-content p {
+            color: #34495e;
+            line-height: 1.7;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>我的旅行日记 ✈️</h1>
+            <p>记录走过的风景，遇见的故事</p>
+        </header>
+
+        <div class="card">
+            <img src="./images/beach.jpg" alt="海边沙滩">
+            <div class="card-content">
+                <h2>三亚 · 椰林沙滩</h2>
+                <p>阳光、沙滩、海浪，还有随风摇曳的椰子树。踩在细软的沙子上，听着潮水拍岸的声音，所有烦恼都被海风带走。</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./images/mountain.jpg" alt="高山云海">
+            <div class="card-content">
+                <h2>黄山 · 云海日出</h2>
+                <p>清晨五点，站在光明顶等待日出。当第一缕阳光刺破云层，漫山的云海翻涌成金色，那一刻的震撼，语言无法形容。</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./images/city.jpg" alt="城市夜景">
+            <div class="card-content">
+                <h2>上海 · 都市霓虹</h2>
+                <p>外滩的灯光亮起，黄浦江面倒映着东方明珠的璀璨。穿梭在南京西路的人流中，感受这座城市的繁华与活力。</p>
+            </div>
+        </div>
+
+        <footer>
+            <p>© 2026 我的旅行日记 | 用脚步丈量世界</p>
+        </footer>
+    </div>
+</body>
+</html>
