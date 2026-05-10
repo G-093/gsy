@@ -1,0 +1,296 @@
+# 这个 viminfo 文件是由 Vim 9.1 生成的。
+# 如果要自行修改请特别小心！
+
+# Viminfo version
+|1,4
+
+# 此文件建立时 'encoding' 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 命令行 历史记录 (从新到旧):
+:q!
+|2,0,1775110877,,"q!"
+:wq!
+|2,0,1775110870,,"wq!"
+:wq
+|2,0,1775110843,,"wq"
+:q
+|2,0,1775009545,,"q"
+
+# 查找字符串 历史记录 (从新到旧):
+
+# 表达式 历史记录 (从新到旧):
+
+# 输入行 历史记录 (从新到旧):
+
+# 输入行 历史记录 (从新到旧):
+
+# 寄存器:
+
+# 文件标记:
+'0  13  0  /usr/share/nginx/html/ind.html
+|4,48,13,0,1775110877,"/usr/share/nginx/html/ind.html"
+'1  72  0  /etc/nginx/nginx.conf
+|4,49,72,0,1775009549,"/etc/nginx/nginx.conf"
+'2  57  1  /etc/nginx/nginx.conf
+|4,50,57,1,1775009452,"/etc/nginx/nginx.conf"
+'3  55  1  /etc/nginx/nginx.conf
+|4,51,55,1,1775009452,"/etc/nginx/nginx.conf"
+'4  53  3  /etc/nginx/nginx.conf
+|4,52,53,3,1774946007,"/etc/nginx/nginx.conf"
+'5  53  3  /etc/nginx/nginx.conf
+|4,53,53,3,1774946007,"/etc/nginx/nginx.conf"
+'6  53  3  /etc/nginx/nginx.conf
+|4,54,53,3,1774946007,"/etc/nginx/nginx.conf"
+'7  53  3  /etc/nginx/nginx.conf
+|4,55,53,3,1774946007,"/etc/nginx/nginx.conf"
+'8  46  3  /etc/nginx/nginx.conf
+|4,56,46,3,1774943476,"/etc/nginx/nginx.conf"
+'9  46  3  /etc/nginx/nginx.conf
+|4,57,46,3,1774943476,"/etc/nginx/nginx.conf"
+
+# 跳转列表 (从新到旧):
+-'  13  0  /usr/share/nginx/html/ind.html
+|4,39,13,0,1775110877,"/usr/share/nginx/html/ind.html"
+-'  72  0  /etc/nginx/nginx.conf
+|4,39,72,0,1775009549,"/etc/nginx/nginx.conf"
+-'  72  0  /etc/nginx/nginx.conf
+|4,39,72,0,1775009549,"/etc/nginx/nginx.conf"
+-'  57  1  /etc/nginx/nginx.conf
+|4,39,57,1,1775009455,"/etc/nginx/nginx.conf"
+-'  57  1  /etc/nginx/nginx.conf
+|4,39,57,1,1775009455,"/etc/nginx/nginx.conf"
+-'  55  1  /etc/nginx/nginx.conf
+|4,39,55,1,1775009452,"/etc/nginx/nginx.conf"
+-'  55  1  /etc/nginx/nginx.conf
+|4,39,55,1,1775009452,"/etc/nginx/nginx.conf"
+-'  53  0  /etc/nginx/nginx.conf
+|4,39,53,0,1775009393,"/etc/nginx/nginx.conf"
+-'  53  0  /etc/nginx/nginx.conf
+|4,39,53,0,1775009393,"/etc/nginx/nginx.conf"
+-'  53  0  /etc/nginx/nginx.conf
+|4,39,53,0,1775009393,"/etc/nginx/nginx.conf"
+-'  53  0  /etc/nginx/nginx.conf
+|4,39,53,0,1775009393,"/etc/nginx/nginx.conf"
+-'  53  3  /etc/nginx/nginx.conf
+|4,39,53,3,1774946007,"/etc/nginx/nginx.conf"
+-'  53  3  /etc/nginx/nginx.conf
+|4,39,53,3,1774946007,"/etc/nginx/nginx.conf"
+-'  46  3  /etc/nginx/nginx.conf
+|4,39,46,3,1774945851,"/etc/nginx/nginx.conf"
+-'  46  3  /etc/nginx/nginx.conf
+|4,39,46,3,1774945851,"/etc/nginx/nginx.conf"
+-'  46  3  /etc/nginx/nginx.conf
+|4,39,46,3,1774945851,"/etc/nginx/nginx.conf"
+-'  46  3  /etc/nginx/nginx.conf
+|4,39,46,3,1774945851,"/etc/nginx/nginx.conf"
+-'  46  3  /etc/nginx/nginx.conf
+|4,39,46,3,1774945851,"/etc/nginx/nginx.conf"
+-'  46  3  /etc/nginx/nginx.conf
+|4,39,46,3,1774945851,"/etc/nginx/nginx.conf"
+-'  46  3  /etc/nginx/nginx.conf
+|4,39,46,3,1774943476,"/etc/nginx/nginx.conf"
+-'  46  3  /etc/nginx/nginx.conf
+|4,39,46,3,1774943476,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943398,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943398,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943398,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943398,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943398,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943398,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943398,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943398,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943047,"/etc/nginx/nginx.conf"
+-'  49  0  /etc/nginx/nginx.conf
+|4,39,49,0,1774943047,"/etc/nginx/nginx.conf"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  59  22  /etc/nginx/nginx.conf.bak
+|4,39,59,22,1774942988,"/etc/nginx/nginx.conf.bak"
+-'  1  0  /etc/nginx/nginx.conf.bak
+|4,39,1,0,1774942447,"/etc/nginx/nginx.conf.bak"
+-'  1  0  /etc/nginx/nginx.conf.bak
+|4,39,1,0,1774942447,"/etc/nginx/nginx.conf.bak"
+-'  1  0  /etc/nginx/nginx.conf.bak
+|4,39,1,0,1774942447,"/etc/nginx/nginx.conf.bak"
+-'  1  0  /etc/nginx/nginx.conf.bak
+|4,39,1,0,1774942447,"/etc/nginx/nginx.conf.bak"
+-'  1  0  /etc/nginx/nginx.conf.bak
+|4,39,1,0,1774942447,"/etc/nginx/nginx.conf.bak"
+
+# 文件内的标记历史记录 (从新到旧):
+
+> /usr/share/nginx/html/ind.html
+	*	1775110873	0
+	"	13	0
+	^	1	4
+	.	1	3
+	+	12	0
+	+	1	3
+
+> /etc/nginx/nginx.conf
+	*	1775009545	0
+	"	72	0
+	^	55	2
+	.	55	2
+	+	48	9
+	+	47	11
+	+	46	20
+	+	40	34
+	+	45	16
+	+	49	0
+	+	57	0
+	+	56	1
+	+	55	0
+	+	54	1
+	+	55	2
+
+> /etc/nginx/nginx.conf.bak
+	*	1774942983	0
+	"	59	22
+
+> ~/index.html
+	*	1774398949	0
+	"	13	0
+	^	13	0
+	.	12	7
+	+	1	286
+	+	1	14
+	+	1	31
+	+	12	7

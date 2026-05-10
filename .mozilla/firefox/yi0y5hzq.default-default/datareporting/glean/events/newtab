@@ -1,0 +1,6 @@
+{"timestamp":2044549,"category":"newtab","name":"opened","extra":{"window_inner_width":"1280","window_inner_height":"683","source":"about:newtab","glean_timestamp":"1778038132288","newtab_visit_id":"{ea9d9ab8-ad66-487a-8cda-1b46cc3f7508}"}}
+{"timestamp":2044585,"category":"topsites","name":"impression","extra":{"glean_timestamp":"1778038132324","is_sponsored":"false","position":"0","newtab_visit_id":"{ea9d9ab8-ad66-487a-8cda-1b46cc3f7508}"}}
+{"timestamp":2044586,"category":"topsites","name":"impression","extra":{"newtab_visit_id":"{ea9d9ab8-ad66-487a-8cda-1b46cc3f7508}","is_sponsored":"false","position":"1","glean_timestamp":"1778038132325"}}
+{"timestamp":2044586,"category":"topsites","name":"impression","extra":{"is_sponsored":"false","position":"2","glean_timestamp":"1778038132326","newtab_visit_id":"{ea9d9ab8-ad66-487a-8cda-1b46cc3f7508}"}}
+{"timestamp":2044587,"category":"topsites","name":"impression","extra":{"glean_timestamp":"1778038132326","position":"3","newtab_visit_id":"{ea9d9ab8-ad66-487a-8cda-1b46cc3f7508}","is_sponsored":"false"}}
+{"timestamp":2044588,"category":"topsites","name":"impression","extra":{"position":"4","glean_timestamp":"1778038132327","newtab_visit_id":"{ea9d9ab8-ad66-487a-8cda-1b46cc3f7508}","is_sponsored":"false"}}
